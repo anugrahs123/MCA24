@@ -1,0 +1,374 @@
+[
+    {
+        "name":"ABHIJITH R",
+        "Roll_no":1,
+        "stream":"Bsc CS",
+        "image":"/assets/img/abhijith.jpg",
+        "instagram":"https://www.instagram.com/_a_b_hi_ji_t_h_/"
+    },
+    {
+        "name":"ABHISHEK M",
+        "Roll_no":2,
+        "stream":"BCA",
+        "image":"/assets/img/abhishek.jpg",
+        "instagram":"https://www.instagram.com/_a__b__h__/"
+    },
+    {
+        "name":"AKSHARA ASHOKAN",
+        "Roll_no":3,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"ALAN T AKKARA",
+        "Roll_no":4,
+        "stream":"BCA",
+        "image":"null",
+        "instagram":"https://www.instagram.com/_confused_man/"
+    },
+    {
+        "name":"AMITH KRISHNAN E",
+        "Roll_no":5,
+        "stream":"BCA",
+        "image":"/assets/img/amith.jpg",
+        "instagram":"https://www.instagram.com/amith._.krishnan/"
+    },
+    {
+        "name":"AMRITHA S J",
+        "Roll_no":6,
+        "stream":"BCA",
+        "image":"null",
+        "instagram":"https://www.instagram.com/_amritha_amzz_/"
+    },
+    {
+        "name":"AMRUTHA P R",
+        "Roll_no":7,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"ANAGH P",
+        "Roll_no":8,
+        "stream":"BCA",
+        "image":"/assets/img/anagh.jpg",
+        "instagram":"https://www.instagram.com/axn_g.x/"
+    },
+    {
+        "name":"ANANYA SHAJI",
+        "Roll_no":9,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"ANSIL OUSEPH",
+        "Roll_no":10,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"ANUGRAH S",
+        "Roll_no":11,
+        "stream":"BCA",
+        "image":"/assets/img/anugrah.jpeg",
+        "instagram":"https://www.instagram.com/_anugrah_s_/"
+    },
+    {
+        "name":"ANUSREE E",
+        "Roll_no":12,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"ARAVIND ANIL",
+        "Roll_no":13,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"ARAVIND SAJI",
+        "Roll_no":14,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"ASHNA C P",
+        "Roll_no":15,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"ASWATHY PRAKASH ",
+        "Roll_no":16,
+        "stream":"BCA",
+        "image":"/assets/img/aswathy.jpg"
+    },
+    {
+        "name":"AYSHA NIDA P",
+        "Roll_no":17,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"AYUSH D B",
+        "Roll_no":18,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"ASHNA C P",
+        "Roll_no":19,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"DEVIKA T",
+        "Roll_no":20,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"FAHMIDHA P",
+        "Roll_no":21,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"FATHIMA ANAS",
+        "Roll_no":22,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"FIDHA ASHARAF",
+        "Roll_no":23,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"GANGA REJI",
+        "Roll_no":24,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"GOPIKA KRISHNAN.S",
+        "Roll_no":25,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"GOVIND K",
+        "Roll_no":26,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"HARILAL PS",
+        "Roll_no":27,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"HARSHITHA P M",
+        "Roll_no":28,
+        "stream":"BCA",
+        "image":"/assets/img/harshitha.jpg",
+        "instagram":"https://www.instagram.com/harshitha.exe/"
+    },
+    {
+        "name":"JERIN JOHN SAJIMON",
+        "Roll_no":29,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"JERRY STEPHEN",
+        "Roll_no":30,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"JISHNU S NAIR",
+        "Roll_no":31,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"JITHU V UDAYAN",
+        "Roll_no":32,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"JOYAL GEORGE",
+        "Roll_no":33,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"KAVYA P M",
+        "Roll_no":34,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"LIYA LALICHAN",
+        "Roll_no":35,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"LLOYD SEBASTIAN",
+        "Roll_no":36,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"MARIYA K J",
+        "Roll_no":37,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"MEENUMOL KJ",
+        "Roll_no":38,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"MEGHA.P",
+        "Roll_no":39,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"MEGHNA RAGHU",
+        "Roll_no":40,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"NABEEL MUHAMMED S",
+        "Roll_no":41,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"NEENA ZYADU PALACKAL",
+        "Roll_no":42,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"NIDHIN KUMAR H",
+        "Roll_no":43,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"RAHUL V",
+        "Roll_no":44,
+        "stream":"BCA",
+        "image":"/assets/img/rahul.jpg",
+        "instagram":"https://www.instagram.com/__shutterlust___/"
+    },
+    {
+        "name":"RIYAS.S",
+        "Roll_no":45,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"SALINI SUNDARAN",
+        "Roll_no":46,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"SANDHYA C",
+        "Roll_no":47,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"SANGEETH P GEORGE",
+        "Roll_no":48,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"SANGEETH S",
+        "Roll_no":49,
+        "stream":"BCA",
+        "image":"/assets/img/pro.jpg",
+        "instagram":"https://www.instagram.com/8th_trap/"
+    },
+    {
+        "name":"SARATH P",
+        "Roll_no":50,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"SARITHA H",
+        "Roll_no":51,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"SHIJNA M",
+        "Roll_no":52,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"SIDHARTH SREENIVASA MENON",
+        "Roll_no":53,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"SNEHA MOL",
+        "Roll_no":54,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"SREEJITH JAYAPRAKASH",
+        "Roll_no":55,
+        "stream":"BCA",
+        "image":"/assets/img/sreejith.jpg",
+        "instagram":"https://www.instagram.com/sreejith_jayaprakash/"
+    },
+    {
+        "name":"SREERAG N V",
+        "Roll_no":56,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"SREYAMOL A R",
+        "Roll_no":57,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"VISHNU P M",
+        "Roll_no":58,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"ZAHEER",
+        "Roll_no":59,
+        "stream":"BCA",
+        "image":"null"
+    },
+    {
+        "name":"ZEAYAD KUNJUMOHAMMED",
+        "Roll_no":60,
+        "stream":"BCA",
+        "image":"null"
+    }
+    
+]
