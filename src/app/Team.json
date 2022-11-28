@@ -2,8 +2,9 @@
     {
         "name":"ABHIJITH R",
         "Roll_no":1,
-        "stream":"Bsc CS",
+        "stream":"BCA",
         "image":"/assets/img/abhijith.jpg",
+        "ad_no":"22MP1951",
         "instagram":"https://www.instagram.com/_a_b_hi_ji_t_h_/"
     },
     {
@@ -22,15 +23,17 @@
     {
         "name":"ALAN T AKKARA",
         "Roll_no":4,
-        "stream":"BCA",
-        "image":"null",
+        "stream":"BSC MATHS",
+        "image":"/assets/img/alan 22MP1966.jpg",
+        "ad_no":"22MP1966",
         "instagram":"https://www.instagram.com/_confused_man/"
     },
     {
         "name":"AMITH KRISHNAN E",
         "Roll_no":5,
-        "stream":"BCA",
+        "stream":"BSC CS",
         "image":"/assets/img/amith.jpg",
+        "ad_no":"22MP2000",
         "instagram":"https://www.instagram.com/amith._.krishnan/"
     },
     {
@@ -44,7 +47,9 @@
         "name":"AMRUTHA P R",
         "Roll_no":7,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1986",
+        "image":"/assets/img/amrutha 22MP1986.jpg",
+        "instagram":"https://www.instagram.com/_.amru.tha__/"
     },
     {
         "name":"ANAGH P",
@@ -57,32 +62,40 @@
         "name":"ANANYA SHAJI",
         "Roll_no":9,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1999",
+        "image":"/assets/img/ananya 22mp1999.jpg",
+        "instagram":"https://www.instagram.com/_e.l.e.v.e.n__/"
+
     },
     {
         "name":"ANSIL OUSEPH",
         "Roll_no":10,
         "stream":"BCA",
-        "image":"null"
+        "image":"null",
+        "instagram":"https://www.instagram.com/anzil_ouseph/"
     },
     {
         "name":"ANUGRAH S",
         "Roll_no":11,
-        "stream":"BCA",
+        "stream":"BSC CS",
         "image":"/assets/img/anugrah.jpeg",
+        "ad_no":"22MP1941",
         "instagram":"https://www.instagram.com/_anugrah_s_/"
     },
     {
         "name":"ANUSREE E",
         "Roll_no":12,
-        "stream":"BCA",
-        "image":"null"
+        "stream":"BSC MATHS",
+        "image":"null",
+        "instagram":"https://www.instagram.com/anusree.s.venugopal/"
     },
     {
         "name":"ARAVIND ANIL",
         "Roll_no":13,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1992",
+        "image":"/assets/img/aravind 22MP1992.jpg",
+        "instagram":"https://www.instagram.com/___vind____/"
     },
     {
         "name":"ARAVIND SAJI",
@@ -100,25 +113,30 @@
         "name":"ASWATHY PRAKASH ",
         "Roll_no":16,
         "stream":"BCA",
+        "ad_no":"22MP1981",
         "image":"/assets/img/aswathy.jpg"
     },
     {
         "name":"AYSHA NIDA P",
         "Roll_no":17,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1997",
+        "image":"/assets/img/nida 22MP1997.jpg"
     },
     {
         "name":"AYUSH D B",
         "Roll_no":18,
-        "stream":"BCA",
-        "image":"null"
+        "stream":"Geology",
+        "ad_no":"22MP1989",
+        "image":"/assets/img/ayush 22mp1989.jpg",
+        "instagram":"https://www.instagram.com/ayushmanbhava/"
     },
     {
-        "name":"ASHNA C P",
+        "name":"CIRIL Mathew",
         "Roll_no":19,
         "stream":"BCA",
-        "image":"null"
+        "image":"null",
+        "instagram":"https://www.instagram.com/c_i_r_i_l___mathew_/"
     },
     {
         "name":"DEVIKA T",
@@ -130,25 +148,30 @@
         "name":"FAHMIDHA P",
         "Roll_no":21,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1993",
+        "image":"/assets/img/femi 22MP1993.jpg"
     },
     {
         "name":"FATHIMA ANAS",
         "Roll_no":22,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1969",
+        "image":"/assets/img/fathima 22MP1969.jpg"
     },
     {
         "name":"FIDHA ASHARAF",
         "Roll_no":23,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1985",
+        "image":"/assets/img/fida 22MP1985.jpg"
     },
     {
         "name":"GANGA REJI",
         "Roll_no":24,
-        "stream":"BCA",
-        "image":"null"
+        "stream":"Jourlism",
+        "ad_no":"22MP1942",
+        "image":"/assets/img/ganga 22MP1942.jpg",
+        "instagram":"https://www.instagram.com/ganga_reji/"
     },
     {
         "name":"GOPIKA KRISHNAN.S",
@@ -160,18 +183,21 @@
         "name":"GOVIND K",
         "Roll_no":26,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1946",
+        "image":"/assets/img/govind 22MP1946.jpg"
     },
     {
         "name":"HARILAL PS",
         "Roll_no":27,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1962",
+        "image":"/assets/img/harilal 22MP1962.jpeg"
     },
     {
         "name":"HARSHITHA P M",
         "Roll_no":28,
         "stream":"BCA",
+        "ad_no":"22MP1940",
         "image":"/assets/img/harshitha.jpg",
         "instagram":"https://www.instagram.com/harshitha.exe/"
     },
@@ -179,13 +205,16 @@
         "name":"JERIN JOHN SAJIMON",
         "Roll_no":29,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1984",
+        "image":"/assets/img/jerin 22MP1984.jpg"
     },
     {
         "name":"JERRY STEPHEN",
         "Roll_no":30,
-        "stream":"BCA",
-        "image":"null"
+        "stream":"PCM",
+        "ad_no":"22MP1978",
+        "image":"/assets/img/jerry 22MP1978.jpg",
+        "instagram":"https://www.instagram.com/jerrystephen_23/"
     },
     {
         "name":"JISHNU S NAIR",
@@ -197,7 +226,9 @@
         "name":"JITHU V UDAYAN",
         "Roll_no":32,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1982",
+        "image":"/assets/img/jithu 22mp1982.jpg",
+        "instagram":"https://www.instagram.com/mr_loozzifer/"
     },
     {
         "name":"JOYAL GEORGE",
@@ -209,7 +240,9 @@
         "name":"KAVYA P M",
         "Roll_no":34,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1960",
+        "image":"/assets/img/kavya 22MP1960.jpg",
+        "instagram":"https://www.instagram.com/_kavya_mahadevan_/"
     },
     {
         "name":"LIYA LALICHAN",
@@ -221,7 +254,9 @@
         "name":"LLOYD SEBASTIAN",
         "Roll_no":36,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1943",
+        "image":"/assets/img/lloyd 22mp1943.jpg",
+        "instagram":"https://www.instagram.com/mezut_ls/"
     },
     {
         "name":"MARIYA K J",
@@ -239,24 +274,29 @@
         "name":"MEGHA.P",
         "Roll_no":39,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1950",
+        "image":"/assets/img/megha 22mp1950.jpg",
+        "instagram":"https://www.instagram.com/megha_puthukudy/"
     },
     {
         "name":"MEGHNA RAGHU",
         "Roll_no":40,
         "stream":"BCA",
-        "image":"null"
+        "image":"null",
+        "instagram":"https://www.instagram.com/me.ghna.__/"
     },
     {
         "name":"NABEEL MUHAMMED S",
         "Roll_no":41,
         "stream":"BCA",
-        "image":"null"
+        "image":"null",
+        "instagram":"https://www.instagram.com/nebulae___/"
     },
     {
         "name":"NEENA ZYADU PALACKAL",
         "Roll_no":42,
         "stream":"BCA",
+        "ad_no":"22MP1973",
         "image":"null"
     },
     {
@@ -269,19 +309,21 @@
         "name":"RAHUL V",
         "Roll_no":44,
         "stream":"BCA",
+        "ad_no":"22MP1945",
         "image":"/assets/img/rahul.jpg",
         "instagram":"https://www.instagram.com/__shutterlust___/"
     },
     {
         "name":"RIYAS.S",
         "Roll_no":45,
-        "stream":"BCA",
+        "stream":"BBA",
         "image":"null"
     },
     {
         "name":"SALINI SUNDARAN",
         "Roll_no":46,
         "stream":"BCA",
+        "ad_no":"22MP1991",
         "image":"null"
     },
     {
@@ -294,7 +336,8 @@
         "name":"SANGEETH P GEORGE",
         "Roll_no":48,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1953",
+        "image":"/assets/img/sangeethp 22MP1953.jpg"
     },
     {
         "name":"SANGEETH S",
@@ -313,6 +356,7 @@
         "name":"SARITHA H",
         "Roll_no":51,
         "stream":"BCA",
+        "ad_no":"22MP1971",
         "image":"null"
     },
     {
@@ -331,12 +375,13 @@
         "name":"SNEHA MOL",
         "Roll_no":54,
         "stream":"BCA",
+        "ad_no":"22MP1949",
         "image":"null"
     },
     {
         "name":"SREEJITH JAYAPRAKASH",
         "Roll_no":55,
-        "stream":"BCA",
+        "stream":"BSC MATHS",
         "image":"/assets/img/sreejith.jpg",
         "instagram":"https://www.instagram.com/sreejith_jayaprakash/"
     },
@@ -344,19 +389,23 @@
         "name":"SREERAG N V",
         "Roll_no":56,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1988",
+        "image":"./../assets/img/sreerag 22MP1988.jpg",
+        "instagram":"https://www.instagram.com/sreerag_n_varier/"
     },
     {
         "name":"SREYAMOL A R",
         "Roll_no":57,
         "stream":"BCA",
+        "ad_no":"22MP1947",
         "image":"null"
     },
     {
         "name":"VISHNU P M",
         "Roll_no":58,
         "stream":"BCA",
-        "image":"null"
+        "image":"/assets/img/vishnu.jpg",
+        "instagram":"https://www.instagram.com/_r_e_d_i_n_k/"
     },
     {
         "name":"ZAHEER",
@@ -368,7 +417,9 @@
         "name":"ZEAYAD KUNJUMOHAMMED",
         "Roll_no":60,
         "stream":"BCA",
-        "image":"null"
+        "ad_no":"22MP1957",
+        "image":"/assets/img/ziyad 22MP1957.jpg",
+        "instagram":"https://www.instagram.com/zi_ya__d/"
     }
     
 ]
