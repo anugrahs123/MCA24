@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import {active_course} from './../../assets/js/slider'
 
 @Component({
   selector: 'app-fact',
@@ -8,8 +9,9 @@ import { Component, OnInit } from '@angular/core';
 export class FactComponent implements OnInit {
 
   constructor() { }
-
+  
   ngOnInit(): void {
+    active_course()
   }
 
 }

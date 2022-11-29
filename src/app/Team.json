@@ -3,7 +3,7 @@
         "name":"ABHIJITH R",
         "Roll_no":1,
         "stream":"BCA",
-        "image":"/assets/img/abhijith.jpg",
+        "image":"https://res.cloudinary.com/dg0vog2t7/image/upload/v1669744909/mca/abhijith_o3acbv.jpg",
         "ad_no":"22MP1951",
         "instagram":"https://www.instagram.com/_a_b_hi_ji_t_h_/"
     },
@@ -55,7 +55,8 @@
         "name":"ANAGH P",
         "Roll_no":8,
         "stream":"BCA",
-        "image":"/assets/img/anagh.jpg",
+        "ad_no":"22MP1998",
+        "image":"https://res.cloudinary.com/dg0vog2t7/image/upload/v1669744765/mca/anagh_22MP1998_okvoog.jpg",
         "instagram":"https://www.instagram.com/axn_g.x/"
     },
     {
@@ -168,7 +169,7 @@
     {
         "name":"GANGA REJI",
         "Roll_no":24,
-        "stream":"Jourlism",
+        "stream":"BSC Journalism",
         "ad_no":"22MP1942",
         "image":"/assets/img/ganga 22MP1942.jpg",
         "instagram":"https://www.instagram.com/ganga_reji/"
@@ -211,7 +212,7 @@
     {
         "name":"JERRY STEPHEN",
         "Roll_no":30,
-        "stream":"PCM",
+        "stream":"BSC PCM",
         "ad_no":"22MP1978",
         "image":"/assets/img/jerry 22MP1978.jpg",
         "instagram":"https://www.instagram.com/jerrystephen_23/"

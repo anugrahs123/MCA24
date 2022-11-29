@@ -1,0 +1,1 @@
+export declare function active_course():any
